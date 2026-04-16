@@ -11,7 +11,7 @@ I'm a **CSE Student** at **BAUST** who loves to bridge the gap between hardware 
 
 * 🔭 **Working on:** Motion-activated security cameras & Smart Charging Systems.
 * 🌱 **Learning:** Advanced Microprocessors & Compiler Design.
-* 🏠 **Based in:** Thakurgaon, Bangladesh.
+* 🏠 **Based in:** Thakurgaon, Bangladesh 🇧🇩
 * 🎯 **Goal:** Building tech that solves real-world problems.
 
 ---
@@ -37,7 +37,7 @@ I'm a **CSE Student** at **BAUST** who loves to bridge the gap between hardware 
 
 ### 📊 My GitHub Journey
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nabilmasrur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nabilmasrur&show_icons=true&theme=tokyonight&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilmasrur&layout=compact&theme=tokyonight"/>
 </p>
 
@@ -45,8 +45,8 @@ I'm a **CSE Student** at **BAUST** who loves to bridge the gap between hardware 
 
 ### 📫 Let's Connect!
 <p align="left">
-<a href="https://www.linkedin.com/in/nabilmasrur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabilmasrur" height="30" width="40" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="nabilmasrur" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nabilmasrur/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nabilmasrur" /></a>
+<a href="mailto:nabil707023@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="nabilmasrur" /></a>
 </p>
 
 ---
